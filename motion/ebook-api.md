@@ -9,7 +9,7 @@ https://api.ebooks.com/authors/b8a99e2
 ```json
 {
     "uri": "/authors/b8a99e2",
-    "id": "b8a99e2",
+    "author_id": "b8a99e2",
     "name": "Joanne Lipman",
     "books": [
         {
