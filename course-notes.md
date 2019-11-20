@@ -33,7 +33,7 @@ In this unit we'll define what an API, or Application Programming Interface is a
 
 ### Video 1 - Exploring an API online
 
-[ProgrammableWeb has a categorized directory of APIs](https://www.programmableweb.com/category-api). [API List](https://apilist.fun/) provides categories and a powerful search feature.
+ProgrammableWeb provides [a categorized directory of APIs](https://www.programmableweb.com/category-api). API List provides [API categories and a powerful search feature]((https://apilist.fun/).
 
 ### Video 2 - Using an API from the command line
 
