@@ -211,3 +211,5 @@ Please text `FEEDBACK` to me at [(503) 461-5537](tel:+15034615537) and let me kn
 👋 Thanks for hanging out! 🙏 Keep me updated on your journey 💪🚀!
 
 [@craigsdennis](https://twitter.com/craigsdennis)
+
+PS. If you want to keep learning for free, I can't recommend [the video game TwilioQuest](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis) enough.
