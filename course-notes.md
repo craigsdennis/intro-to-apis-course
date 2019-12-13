@@ -11,7 +11,7 @@ In this unit we'll define what an API, or Application Programming Interface is a
 #### 👀 - Beginner content
 
 * [freeCodeCamp.org](https://www.freecodecamp.org/) is a great place to get started and I recommend jumping [right in](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements).
-* [freeCodeCamp on YouTube](https://www.youtube.com/freecodecamp) provides a wonderful collection of beginning programming courses. I recommend the [JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg) and [Python](https://www.youtube.com/watch?v=rfscVS0vtbw) tutorials.
+* [freeCodeCamp on YouTube](https://www.youtube.com/freecodecamp) provides a wonderful collection of beginning programming courses. I recommend the [🎥 JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg) and [🎥 Python](https://www.youtube.com/watch?v=rfscVS0vtbw) tutorials.
 
 #### 📚 - Designing API Content
 
@@ -105,7 +105,7 @@ Remove-Item alias:curl
 
 ### Video 3 - Using Postman to explore APIs
 
-Download [Postman](https://getpostman.com)
+⬇️ - Download [Postman](https://getpostman.com)
 
 The Twilio Messages API URL is:
 
@@ -117,7 +117,7 @@ Make sure to replace that `SID` with your Account SID which can be found in the 
 
 ### Video 4 - Please please Mr. Postman
 
-Many wonderful API Collections can be downloaded for exploration in the [Postman API Network](https://explore.postman.com/)
+⬇️ - Many wonderful API Collections can be downloaded for exploration in the [Postman API Network](https://explore.postman.com/)
 
 #### 📚 - Learn more
 
@@ -164,20 +164,19 @@ pip install twilio
 * [Slack API](https://api.slack.com/)
 * [Sportsball APIs](https://rapidapi.com/blog/best-sports-apis-ranked/)
 * [Philips Hue API](https://developers.meethue.com/)
-* [📹 Furby Hacking 101 w/ Chloe Condon](https://www.youtube.com/watch?v=dWpqoMObX54)
+* [🎥 Furby Hacking 101 w/ Chloe Condon](https://www.youtube.com/watch?v=dWpqoMObX54)
 
 ### Video 2 - Flask app
 
 [Complimentr Flask GitHub repository](https://github.com/craigsdennis/intro-to-apis-flask) is located at `https://github.com/craigsdennis/intro-to-apis-flask`
 
-* [Twilio docs - Create a Message with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python&code-sdk-version=6.x)
-* [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python&code-sdk-version=6.x)
+* [Twilio docs - Create a Message with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python)
+* [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python)
 
 #### 📚 - Learn more
 
 * [Flask documentation](https://flask.palletsprojects.com/)
 * [Environment Variables](https://www.twilio.com/docs/usage/secure-credentials)
-
 
 ### Video 3 - Dealing with API Limits
 
@@ -212,4 +211,4 @@ Please text `FEEDBACK` to me at [(503) 461-5537](tel:+15034615537) and let me kn
 
 [@craigsdennis](https://twitter.com/craigsdennis)
 
-PS. If you want to keep learning for free, I can't recommend [the video game TwilioQuest](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis) enough.
+PS. If you want to keep on learning for free, I can't recommend [the video game TwilioQuest 🎮](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis) enough.

@@ -9,6 +9,8 @@ Hello and welcome to this free course on Application Programming Interfaces, or 
 ## Important links
 
 * [Course notes](./course-notes.md)
+* [Glitch starter repo for Complimentr in Python](https://github.com/craigsdennis/intro-to-apis-flask)
+* [Glitch starter repo for Complimentr in JavaScript](https://github.com/craigsdennis/intro-to-apis-node)
 * [Learn more for free using a video game 🎮](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
 
 [@craigsdennis](https://twitter.com/craigsdennis)
