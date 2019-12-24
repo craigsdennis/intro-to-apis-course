@@ -168,9 +168,9 @@ pip install twilio
 
 ### Video 2 - Flask app
 
-[Complimentr Flask GitHub repository](https://github.com/craigsdennis/intro-to-apis-flask) is located at `https://github.com/craigsdennis/intro-to-apis-flask`
-
 ⚠️ Several students have reported that cloning sets up a default Glitch application. If this happens to you, in the Glitch app that is created choose "Tools >> Extras >> Git Import and Export >> Import from GitHub" when prompted enter "craigsdennis/intro-to-apis-node" or "craigsdennis/intro-to-apis-flask"
+
+[Complimentr Flask GitHub repository](https://github.com/craigsdennis/intro-to-apis-flask) is located at `https://github.com/craigsdennis/intro-to-apis-flask`
 
 * [Twilio docs - Create a Message with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python)
 * [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python)
@@ -187,6 +187,8 @@ pip install twilio
 * [Nordic APIs - Everything You Need To Know About API Rate Limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)
 
 ### Video 4 - JavaScript Single Page Application
+
+⚠️ Several students have reported that cloning sets up a default Glitch application. If this happens to you, in the Glitch app that is created choose "Tools >> Extras >> Git Import and Export >> Import from GitHub" when prompted enter "craigsdennis/intro-to-apis-node" or "craigsdennis/intro-to-apis-flask"
 
 [Complimentr Node.js GitHub repository](https://github.com/craigsdennis/intro-to-apis-node) is located at `https://github.com/craigsdennis/intro-to-apis-node`
 
