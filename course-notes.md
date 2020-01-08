@@ -69,9 +69,9 @@ ProgrammableWeb provides [a categorized directory of APIs](https://www.programma
 
 ### Video 2 - Using an API from the command line
 
-* [Twilio](https://twilio.com)
-* [Twilio Console](https://twilio.com/console)
-* [SMS Getting Started](https://www.twilio.com/console/sms/getting-started/build)
+* [Twilio](https://twilio.com?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
+* [Twilio Console](https://twilio.com/console?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
+* [SMS Getting Started](https://www.twilio.com/console/sms/getting-started/build?&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
 * Check out the [jq tutorial](https://stedolan.github.io/jq/tutorial/) for parsing JSON on the command line
 
 #### cURL
@@ -172,8 +172,8 @@ pip install twilio
 
 [Complimentr Flask GitHub repository](https://github.com/craigsdennis/intro-to-apis-flask) is located at `https://github.com/craigsdennis/intro-to-apis-flask.git`
 
-* [Twilio docs - Create a Message with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python)
-* [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python)
+* [Twilio docs - Create a Message with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
+* [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
 
 #### 📚 - Learn more
 
@@ -192,8 +192,8 @@ pip install twilio
 
 [Complimentr Node.js GitHub repository](https://github.com/craigsdennis/intro-to-apis-node) is located at `https://github.com/craigsdennis/intro-to-apis-node.git`
 
-* [Twilio docs - Create a Message with Node.js](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Node.js)
-* [Twilio docs - List all Messages with Node.js](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Node.js)
+* [Twilio docs - Create a Message with Node.js](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Node.js&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
+* [Twilio docs - List all Messages with Node.js](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Node.js&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
 
 #### 📚 - Learn more
 
@@ -207,7 +207,7 @@ pip install twilio
 
 ### Video 6 - Review
 
-I built a little Twilio application using [Studio](https://www.twilio.com/docs/studio) and some APIs to gather your feedback.
+I built a little Twilio application using [Studio](https://www.twilio.com/docs/studio?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis) and some APIs to gather your feedback.
 
 Please text `FEEDBACK` to me at [(503) 461-5537](tel:+15034615537) and let me know what you thought about this course! (You can also call if that's your jam)
 
