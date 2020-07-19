@@ -173,7 +173,7 @@ pip install twilio
 [Complimentr Flask GitHub repository](https://github.com/craigsdennis/intro-to-apis-flask) is located at `https://github.com/craigsdennis/intro-to-apis-flask.git`
 
 * [Twilio docs - Create a Message with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
-* [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Python&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
+* [Twilio docs - List all Messages with Python](https://www.twilio.com/docs/sms/api/message-resource?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis&code-sample=code-read-list-all-messages&code-language=Python)
 
 #### 📚 - Learn more
 
@@ -193,7 +193,7 @@ pip install twilio
 [Complimentr Node.js GitHub repository](https://github.com/craigsdennis/intro-to-apis-node) is located at `https://github.com/craigsdennis/intro-to-apis-node.git`
 
 * [Twilio docs - Create a Message with Node.js](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Node.js&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
-* [Twilio docs - List all Messages with Node.js](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-create-a-message&code-language=Node.js&utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
+* [Twilio docs - List all Messages with Node.js](https://www.twilio.com/docs/sms/api/message-resource?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis&code-sample=code-read-list-all-messages&code-language=Node.js)
 
 #### 📚 - Learn more
 
