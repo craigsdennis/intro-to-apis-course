@@ -69,7 +69,7 @@ ProgrammableWeb provides [a categorized directory of APIs](https://www.programma
 
 ### Video 2 - Using an API from the command line
 
-* [Twilio](www.twilio.com/referral/d4X15O)
+* [Twilio](https://www.twilio.com/referral/d4X15O)
 * [Twilio Console](https://twilio.com/console?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
 * [SMS Getting Started](https://www.twilio.com/console/sms/getting-started/build?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
 * Check out the [jq tutorial](https://stedolan.github.io/jq/tutorial/) for parsing JSON on the command line
@@ -105,7 +105,7 @@ Remove-Item alias:curl
 
 ### Video 3 - Using Postman to explore APIs
 
-⬇️ - Download [Postman](https://getpostman.com)
+⬇️ - Download [Postman](https://postman.com/downloads)
 
 The Twilio Messages API URL is:
 
