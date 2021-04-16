@@ -27,7 +27,7 @@ In this unit we'll define what an API, or Application Programming Interface is a
 Don't worry about understanding it, just appreciate their complexity
 
 * [Android MediaPlayer API documentation](https://developer.android.com/reference/android/media/MediaPlayer)
-* [iOS Media Player API documentation](https://developer.android.com/reference/android/media/MediaPlayer)
+* [iOS Media Player API documentation](https://developer.apple.com/documentation/mediaplayer)
 * [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
 ### Video 3 - Defining API
