@@ -48,6 +48,7 @@ Don't worry about understanding it, just appreciate their complexity
 ### Video 5 - How the web works
 
 * [Wikipedia - HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [mdn - How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [Space Jam Website](http://www.spacejam.com)
 
 ### Video 6 - RESTful API Constraint Scavenger Hunt
