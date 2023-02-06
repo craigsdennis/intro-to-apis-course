@@ -4,7 +4,7 @@
 
 ⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
 
-This course has been deprecated! That means that you should no longer use it, you should head to the newer 2023 version
+This course has been deprecated! That means that you should no longer use it, you should head to the newer 2023 version!
 
 [![Watch the video on freeCodeCamp](https://img.youtube.com/vi/WXsD0ZgxjRw/maxresdefault.jpg)](https://youtu.be/WXsD0ZgxjRw)
 
